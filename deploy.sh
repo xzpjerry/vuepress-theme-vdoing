@@ -14,7 +14,7 @@ echo 'blog.zhipengx.com' > CNAME
 
 
 msg='来自github actions的自动部署'
-githubUrl=https://xugaoyi:${ACCESS}@github.com/xzpjerry/vuepress-theme-vdoing.git
+githubUrl=https://xzpjerry:${ACCESS}@github.com/xzpjerry/vuepress-theme-vdoing.git
 git config --global user.name "xzpjerry"
 git config --global user.email "xzpjerry@gmail.com"
 
