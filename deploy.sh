@@ -10,7 +10,7 @@ npm run build
 cd docs/.vuepress/dist
 
 # deploy to github pages
-echo 'blog.zhipengx.com' > CNAME
+# echo 'blog.zhipengx.com' > CNAME
 
 
 msg='来自github actions的自动部署'
